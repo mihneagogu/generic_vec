@@ -1,2 +1,2 @@
 # generic_vec
-Generic vec, written in C.
+Macro-based generic vector implementation for C programmers who really don't want to deal with void * for generics. Also macros are interesting
